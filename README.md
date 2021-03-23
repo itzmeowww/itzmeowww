@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Win.
+
+- Know more about me:
+- - [Facebook](http://fb.me/thanasan.kumdee)
 
 <!--
 **itzmeowww/itzmeowww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
