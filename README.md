@@ -1,23 +1,16 @@
-### Hi there 👋, I'm Win.
+# <b>Hi there 👋, I'm Win.</b>
 
-- Know more about me:
-  - [Website](https://thnsnkmd.vercel.app)
-  - [Facebook](http://fb.me/thanasan.kumdee)
-  - [Instagram](https://www.instagram.com/thnsn_kmd/)
-  - [Youtube](https://www.youtube.com/channel/UCbO2Bb1HHWJAgD3P6lGwYxg)
-  
+<br>
 
-<!--
-**itzmeowww/itzmeowww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Find me on
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://github.com/itzmeowww" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/thanasan-kumdee/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/thnsn_kmd/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Thanasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzmeowww&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzmeowww&theme=dark)
