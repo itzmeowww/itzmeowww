@@ -2,7 +2,8 @@
 
 <br>
 
-## Find me on
+<h3> Find me on </h3>
+<br>
 
 <p>
   <a href="https://github.com/itzmeowww" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -11,6 +12,9 @@
 </p>
 <br>
 
+<h3> My GitHub Stats </h3>
+<br>
+
 ![Thanasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzmeowww&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzmeowww&theme=dark)
+![Thanasan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzmeowww&theme=dark)
