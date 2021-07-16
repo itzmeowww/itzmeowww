@@ -1,10 +1,5 @@
 # <b>Hi there 👋, I'm Win.</b>
 
-<br>
-
-<br>
-<h3> Find me on </h3>
-
 <p>
   <a href="https://thnsnkmd.vercel.app"><img  src="https://img.shields.io/badge/My_Website-brightgreen?style=for-the-badge&logo=vercel"></img></a>
   <a href="https://www.linkedin.com/in/thanasan-kumdee/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -16,8 +11,4 @@
 </p>
 <br>
 
-<h3> My GitHub Stats </h3>
-
-![Thanasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzmeowww&theme=dark)
-
-![Thanasan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzmeowww&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzmeowww&theme=dark&layout=compact)
