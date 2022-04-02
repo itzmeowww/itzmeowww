@@ -1,4 +1,4 @@
-# <b>Hi there 👋, I'm Win.</b>
+# <b>Hi 👋!, I'm Win.</b>
 
 <p>
   <a href="https://thnsnkmd.vercel.app"><img  src="https://img.shields.io/badge/My_Website-brightgreen?style=for-the-badge&logo=vercel"></img></a>
@@ -10,5 +10,18 @@
   
 </p>
 <br>
+<details>
+<summary><b>My Recent Projects!</b></summary>
+  
+- [JLPT Flashcard](https://github.com/itzmeowww/jlpt-flashcard)
+- [Geacher](https://github.com/itzmeowww/geacher)
+- [SaraTree](https://github.com/itzmeowww/saratree)
+- [Prakadyang?](https://github.com/itzmeowww/prakardyang)
+  
+</details>
+
+<br>
+
+[![wakatime](https://wakatime.com/badge/user/b8b9430b-e465-4dcf-88e1-c275703c6333.svg)](https://wakatime.com/@b8b9430b-e465-4dcf-88e1-c275703c6333)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzmeowww&theme=dark&layout=compact)
